@@ -1,12 +1,15 @@
 <h1>
   Instagram Clone App
 </h1>
-    Tech Used
-      - UIKit Programmatically
-      - SDWebImage
-      - SnapKit
-      - YPImagePicker
-      - JGProgressHUD
-      - FirebaseAuth
-      - FirebaseStorage
-      - FireStore Database
+<h2>Tech Used</h2>
+
+<ul>
+  <li>UIKit Programmatically</li>
+  <li>SDWebImage</li>
+  <li>SnapKit</li>
+  <li>YPImagePicker</li>
+  <li>JGProgressHUD</li>
+  <li>FirebaseAuth</li>
+  <li>FirebaseStorage</li>
+  <li>FireStore Database</li>
+</ul>  
